@@ -23,13 +23,14 @@ Then you can get access to your VM by typing the bash command `ssh mlops_zoomcam
 Navigate to the anaconda official download website and copy the downloading url
 
 ```
-
+$ wget https://repo.anaconda.com/archive/Anaconda3-2024.10-1-Linux-x86_64.sh
+$ bash Anaconda3-2024.10-1-Linux-x86_64.sh
 ```
 
 ### 1.4 Update existing packages
 
 ```
-sudo apt update
+$ sudo apt update
 ```
 
 ### 1.5 Install Docker and Docker Compose

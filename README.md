@@ -1,3 +1,2 @@
-# 📕 Mlops_zoomcamp_2025 Week 1 Notes 
+# 📕 Mlops_zoomcamp_2025
 
-- [x] [Intro & Environment Setup]
